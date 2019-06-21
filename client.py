@@ -6,6 +6,7 @@ pygame.init()
 clock = pygame.time.Clock()
 start_time = 0
 
+
 # Colors
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
